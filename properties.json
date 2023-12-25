@@ -1,0 +1,10 @@
+{
+    "pgsql": {
+        "host": "ec2-184-72-237-95.compute-1.amazonaws.com",
+        "user": "bfqkwcunuuqqub",
+        "password": "c99ac36ccd712b775330a013992d7eda4d9e1865de468ad0276a055b7082adfe",
+        "database": "d15j09p2tjo4ap",
+        "schema": "nipsmchdb",
+        "port": 5432
+    }
+}
